@@ -19,8 +19,7 @@ export default function Home() {
           <h1 className="text-2xl font-bold md:text-4xl lg:text-7xl">MAID</h1>
 
           <p className="text-shadow-md max-w-xs text-xs md:max-w-lg md:text-lg lg:max-w-2xl">
-            Geralt of Rivia, a solitary monster hunter, struggles to find his
-            place in a world where people often prove more wicked than beasts.
+          Put the description here
           </p>
         </div>
 
